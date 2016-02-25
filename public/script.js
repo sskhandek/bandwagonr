@@ -1,4 +1,4 @@
-var currDate = 1;
+var currDate = 0;
 var finalArray = [];
 
 //Width and height
@@ -39,14 +39,15 @@ d3.json("us-states.json", function(json) {
 					finalArray[geostuff[i].days_ago].push(geostuff[i]);
 				}
 
+				$('#slider')[0].max = finalArray.length;
+				$('#slider')[0].min = 0;
+				$('#slider')[0].step = 1;
+				$('#slider')[0].value = finalArray.length;
+
 				// Add dots
 		 	    a();
 	         }
 	   });
-});
-
-$('#slider').on("change", function() {
-    console.log('lOL')
 });
 
 var a = function () {
@@ -58,6 +59,10 @@ var a = function () {
 	var negativeTweets = geostuff.filter(function (value) {
 		return !value.positive;
 	})
+
+	if (svg.selectAll("circle")) {
+		svg.selectAll("circle").remove();
+	}
 
    svg.selectAll("circle")
 	  .data(positiveTweets)
@@ -86,3 +91,10 @@ var a = function () {
 	 .style("fill", "red")
 	 .style("opacity", 0.2);
 };
+
+// Slider Logic
+$('#slider').change(function(){
+	currDate = finalArray.length - $(this).val();
+	$('#days').html(currDate + "Days Ago");
+	a();
+});
