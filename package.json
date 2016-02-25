@@ -5,6 +5,7 @@
     "sskhandek <sskhandek@gmail.com>"
   ],
   "dependencies": {
-    "express": "^4.11.1"
+    "express": "^4.11.1",
+    "sentiment": "latest"
   }
 }
