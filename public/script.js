@@ -26,7 +26,7 @@ d3.json("us-states.json", function(json) {
 	   .enter()
 	   .append("path")
 	   .attr("d", path)
-	   .style("fill", "#D3D3D3");
+	   .style("fill", "#d0d0d0");
 
 	   $.ajax( {
 	         url: '/tweets',
@@ -122,6 +122,5 @@ $('#slider').change(function(){
 	} else {
 		$('#game').hide();
 	}
-	$('#')
 	a();
 });
