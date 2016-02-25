@@ -8,7 +8,7 @@ var h = window.innerHeight * (9/10);
 //Define map projection
 var projection = d3.geo.albersUsa()
 					   .translate([w/2, h/2])
-					   .scale([2000]);
+					   .scale([1500]);
 
 //Define path generator
 var path = d3.geo.path()
