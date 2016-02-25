@@ -1,5 +1,6 @@
 var currDate = 0;
 var finalArray = [];
+var gamesArray = [];
 
 //Width and height
 var w = window.innerWidth * (8/10);
@@ -44,10 +45,28 @@ d3.json("us-states.json", function(json) {
 				$('#slider')[0].step = 1;
 				$('#slider')[0].value = finalArray.length;
 
+				// Games
+		 	   $.ajax( {
+		 	   	  url: '/games',
+		 	   	  type: 'POST',
+		 	   	  success: function(data) {
+		 	   		  gamesArray = data;
+		 			  if (gamesArray[currDate]) {
+		 		  		$('#game').show();
+		 		  		$('#team').html(gamesArray[currDate].team);
+		 		  		$('#score').html(gamesArray[currDate].score);
+		 		  	} else {
+		 		  		$('#game').hide();
+		 		  	}
+		 	   	  }
+		 	   });
+
 				// Add dots
 		 	    a();
 	         }
 	   });
+
+
 });
 
 var a = function () {
@@ -96,5 +115,13 @@ var a = function () {
 $('#slider').change(function(){
 	currDate = finalArray.length - $(this).val();
 	$('#days').html(currDate + "Days Ago");
+	if (gamesArray[currDate]) {
+		$('#game').show();
+		$('#team').html(gamesArray[currDate].team);
+		$('#score').html(gamesArray[currDate].score);
+	} else {
+		$('#game').hide();
+	}
+	$('#')
 	a();
 });

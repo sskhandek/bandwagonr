@@ -43,6 +43,14 @@ for (var j = 0; j < files.length; j++) {
     }
 }
 
+var games = fs.readFileSync("public/gsw_data/warriors_games.json");
+var games_data = JSON.parse(games);
+var gsw_games = {};
+for (var k = 0; k < games_data.length; k++) {
+	games_data[k].days_ago = twitterDate(games_data[k].time);
+	gsw_games[games_data[k].days_ago] = games_data[k]
+}
+
 function twitterDate(tdate) {
     var system_date = new Date(Date.parse(tdate));
     var user_date = new Date();
@@ -52,6 +60,10 @@ function twitterDate(tdate) {
 
 app.post('/tweets', function(req, res){
    res.send(geostuff);
+});
+
+app.post('/games', function(req, res){
+   res.send(gsw_games);
 });
 
 app.use(express.static(__dirname + '/public'));

@@ -1,0 +1,30 @@
+[
+  {
+    "team": "Miami Heat",
+    "result": "Win",
+    "place": "away",
+    "score": "118-112",
+    "time": "Thu, 25 Feb 2016 07:00:00 GMT"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "result": "Win",
+    "place": "away",
+    "score": "102-92",
+    "time": "Tues, 23 Feb 2016 07:00:00 GMT"
+  },
+  {
+    "team": "Miami Heat",
+    "result": "Win",
+    "place": "away",
+    "score": "115-112",
+    "time": "Sun, 21 Feb 2016 07:00:00 GMT"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "result": "Lose",
+    "place": "away",
+    "score": "105-137",
+    "time": "Sat, 20 Feb 2016 07:00:00 GMT"
+  }
+]
