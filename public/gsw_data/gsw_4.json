@@ -1,0 +1,1768 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Off to the miamiheat game with my boo! \ud83d\udd25\u2764\ufe0f #HeatNation #Heat #gsw #happy #selfie #Miami #AAArena\u2026 https://t.co/Etik6MzR3Q", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 702626284866764800, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -80.18823458, 
+                25.7813614
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        43, 
+                        54
+                    ], 
+                    "text": "HeatNation"
+                }, 
+                {
+                    "indices": [
+                        55, 
+                        60
+                    ], 
+                    "text": "Heat"
+                }, 
+                {
+                    "indices": [
+                        61, 
+                        65
+                    ], 
+                    "text": "gsw"
+                }, 
+                {
+                    "indices": [
+                        66, 
+                        72
+                    ], 
+                    "text": "happy"
+                }, 
+                {
+                    "indices": [
+                        73, 
+                        80
+                    ], 
+                    "text": "selfie"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        87
+                    ], 
+                    "text": "Miami"
+                }, 
+                {
+                    "indices": [
+                        88, 
+                        96
+                    ], 
+                    "text": "AAArena"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        98, 
+                        121
+                    ], 
+                    "url": "https://t.co/Etik6MzR3Q", 
+                    "expanded_url": "https://www.instagram.com/p/BCL7TiNKQGo/", 
+                    "display_url": "instagram.com/p/BCL7TiNKQGo/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "702626284866764800", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 558506740, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/481762989247582209/WW_15fyi_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/GmceUVQO2C", 
+                            "expanded_url": "http://www.starnow.co.uk/stephaniemorville", 
+                            "display_url": "starnow.co.uk/stephaniemorvi\u2026"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1065, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "location": "Burnley, Northwest", 
+            "default_profile_image": false, 
+            "id_str": "558506740", 
+            "is_translation_enabled": false, 
+            "utc_offset": 3600, 
+            "statuses_count": 10274, 
+            "description": "Carnival Sunshine/Breeze/Splendor Playlist Singer ..BGT '14 Semi Finalist ..Professional Singer/Dancer/Actress", 
+            "friends_count": 421, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/481762989247582209/WW_15fyi_normal.jpeg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000063009771/ebd9ce1e0ed52459c10da39c99b0a760.jpeg", 
+            "profile_background_color": "C0DEED", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/558506740/1426032571", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000063009771/ebd9ce1e0ed52459c10da39c99b0a760.jpeg", 
+            "name": "Steff Morville", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 6114, 
+            "screen_name": "missmorville", 
+            "url": "https://t.co/GmceUVQO2C", 
+            "created_at": "Fri Apr 20 10:17:35 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Amsterdam", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 12
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                25.7813614, 
+                -80.18823458
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Feb 24 22:48:55 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Miami, FL", 
+            "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -80.321683, 
+                            25.7090404
+                        ], 
+                        [
+                            -80.144974, 
+                            25.7090404
+                        ], 
+                        [
+                            -80.144974, 
+                            25.855667
+                        ], 
+                        [
+                            -80.321683, 
+                            25.855667
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "04cb31bae3b3af93", 
+            "name": "Miami"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "NBA Top! #GoldenState #Warriors #GSW #NBA #Curry @ S\u00e3o Jos\u00e9 dos Campos, Brazil https://t.co/9i4QqPFsNX", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701964725366734848, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -45.87861111, 
+                -23.18638889
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        9, 
+                        21
+                    ], 
+                    "text": "GoldenState"
+                }, 
+                {
+                    "indices": [
+                        22, 
+                        31
+                    ], 
+                    "text": "Warriors"
+                }, 
+                {
+                    "indices": [
+                        32, 
+                        36
+                    ], 
+                    "text": "GSW"
+                }, 
+                {
+                    "indices": [
+                        37, 
+                        41
+                    ], 
+                    "text": "NBA"
+                }, 
+                {
+                    "indices": [
+                        42, 
+                        48
+                    ], 
+                    "text": "Curry"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        79, 
+                        102
+                    ], 
+                    "url": "https://t.co/9i4QqPFsNX", 
+                    "expanded_url": "https://www.instagram.com/p/BCHOdmNJPNu/", 
+                    "display_url": "instagram.com/p/BCHOdmNJPNu/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701964725366734848", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "pt", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 92128931, 
+            "verified": false, 
+            "profile_text_color": "666666", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/676064054637645824/FxdwLRiB_normal.jpg", 
+            "profile_sidebar_fill_color": "252429", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "url": "http://t.co/5pqnnPb0yF", 
+                            "expanded_url": "http://www.facebook.com/tiago.marchettichaves", 
+                            "display_url": "facebook.com/tiago.marchett\u2026"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 3370, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "S\u00e3o Paulo, Brasil ", 
+            "default_profile_image": false, 
+            "id_str": "92128931", 
+            "is_translation_enabled": false, 
+            "utc_offset": -10800, 
+            "statuses_count": 796, 
+            "description": "29 anos, Casado, Estudante de Historia, Adventista do 7\u00b0 Dia e Louco pelo Corinthians o maior do Brasil. #ForaPT", 
+            "friends_count": 233, 
+            "profile_link_color": "3B94D9", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/676064054637645824/FxdwLRiB_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446523660841390080/m5XbHEEH.jpeg", 
+            "profile_background_color": "1A1B1F", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/92128931/1395294598", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446523660841390080/m5XbHEEH.jpeg", 
+            "name": "Tiago Marchetti", 
+            "lang": "pt", 
+            "profile_background_tile": true, 
+            "favourites_count": 88, 
+            "screen_name": "TiagoMarchetti", 
+            "url": "http://t.co/5pqnnPb0yF", 
+            "created_at": "Mon Nov 23 22:17:24 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 5
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                -23.18638889, 
+                -45.87861111
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "pt", 
+        "created_at": "Tue Feb 23 03:00:07 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "S\u00e3o Jos\u00e9 dos Campos, Brasil", 
+            "url": "https://api.twitter.com/1.1/geo/id/ad8a3318a4317a03.json", 
+            "country": "Brasil", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -46.108612, 
+                            -23.306164
+                        ], 
+                        [
+                            -45.7262721, 
+                            -23.306164
+                        ], 
+                        [
+                            -45.7262721, 
+                            -22.816672
+                        ], 
+                        [
+                            -46.108612, 
+                            -22.816672
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "BR", 
+            "attributes": {}, 
+            "id": "ad8a3318a4317a03", 
+            "name": "S\u00e3o Jos\u00e9 dos Campos"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Welcome light skin brother to the #gsw make us proud lol @ Kansas City, Missouri https://t.co/KXqNcbi2r2", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701932813520650240, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -94.5554, 
+                39.0763
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        34, 
+                        38
+                    ], 
+                    "text": "gsw"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        81, 
+                        104
+                    ], 
+                    "url": "https://t.co/KXqNcbi2r2", 
+                    "expanded_url": "https://www.instagram.com/p/BCG69gETVZq/", 
+                    "display_url": "instagram.com/p/BCG69gETVZq/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701932813520650240", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2563827064, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/693211568624906240/TMp5gqBQ_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 54, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "location": "Look Behind You", 
+            "default_profile_image": false, 
+            "id_str": "2563827064", 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 457, 
+            "description": "Senior student/Scorpio4Lyfe/Stay Happy/Keep Smiling/You Follow I follow back vice versa", 
+            "friends_count": 202, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/693211568624906240/TMp5gqBQ_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_color": "C0DEED", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2563827064/1433436308", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Tanisha Richardson", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 114, 
+            "screen_name": "tanishaRbabyD", 
+            "url": null, 
+            "created_at": "Sun May 25 17:42:02 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                39.0763, 
+                -94.5554
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue Feb 23 00:53:18 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Kansas City, MO", 
+            "url": "https://api.twitter.com/1.1/geo/id/9a974dfc8efb32a0.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -94.733122, 
+                            38.868002
+                        ], 
+                        [
+                            -94.3854414, 
+                            38.868002
+                        ], 
+                        [
+                            -94.3854414, 
+                            39.332095
+                        ], 
+                        [
+                            -94.733122, 
+                            39.332095
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "9a974dfc8efb32a0", 
+            "name": "Kansas City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "The Life! Catching #GSW \ud83c\udfc0 shoot around with @dannydigitall @ Philips\u2026 https://t.co/NgQNOQXh3P", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701851742443540482, 
+        "favorite_count": 2, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -84.39599398, 
+                33.75750679
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "indices": [
+                        44, 
+                        58
+                    ], 
+                    "id_str": "2617368575", 
+                    "screen_name": "dannydigitall", 
+                    "name": "Danny Digital", 
+                    "id": 2617368575
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        19, 
+                        23
+                    ], 
+                    "text": "GSW"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        70, 
+                        93
+                    ], 
+                    "url": "https://t.co/NgQNOQXh3P", 
+                    "expanded_url": "https://www.instagram.com/p/BCGbFUBi_seBsszuz3s5RVENVX5Ci02EnmLG9g0/", 
+                    "display_url": "instagram.com/p/BCGbFUBi_seB\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701851742443540482", 
+        "retweet_count": 1, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 181467035, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/696870131327176704/qCp2rZH-_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/SNPwxWf8Lb", 
+                            "expanded_url": "http://www.hiphopsince1987.com", 
+                            "display_url": "hiphopsince1987.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "indices": [
+                                51, 
+                                74
+                            ], 
+                            "url": "https://t.co/0z4KQxMfpb", 
+                            "expanded_url": "http://blogtalkradio.com/getlifted", 
+                            "display_url": "blogtalkradio.com/getlifted"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 5071, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "location": "Phila./ATL/Mars/On the Moon", 
+            "default_profile_image": false, 
+            "id_str": "181467035", 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 270054, 
+            "description": "We are not the same.I'm A Martian! GetLiftedRadio (https://t.co/0z4KQxMfpb) http://HHS1987.com@HipHopSince1987 EMAIL: eldorado2452@gmail.com", 
+            "friends_count": 665, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/696870131327176704/qCp2rZH-_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/191429162/images.jpeg", 
+            "profile_background_color": "9FBDCC", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/181467035/1362686278", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/191429162/images.jpeg", 
+            "name": "Caddy HHS1987.com", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 170, 
+            "screen_name": "Eldorado2452", 
+            "url": "https://t.co/SNPwxWf8Lb", 
+            "created_at": "Sun Aug 22 08:01:12 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 150
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                33.75750679, 
+                -84.39599398
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Feb 22 19:31:09 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Atlanta, GA", 
+            "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.576827, 
+                            33.6475029
+                        ], 
+                        [
+                            -84.289385, 
+                            33.6475029
+                        ], 
+                        [
+                            -84.289385, 
+                            33.8868859
+                        ], 
+                        [
+                            -84.576827, 
+                            33.8868859
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "8173485c72e78ca5", 
+            "name": "Atlanta"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "#HomecomingKing #hitdemfolks #GSW #2k16 #fuckcancer #thugga#\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd\ud83d\udcaa\ud83c\udffd @ Gsw Pines https://t.co/kyFAtMI6Pp", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701622728520912896, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -84.21768923, 
+                32.05833514
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        0, 
+                        15
+                    ], 
+                    "text": "HomecomingKing"
+                }, 
+                {
+                    "indices": [
+                        16, 
+                        28
+                    ], 
+                    "text": "hitdemfolks"
+                }, 
+                {
+                    "indices": [
+                        29, 
+                        33
+                    ], 
+                    "text": "GSW"
+                }, 
+                {
+                    "indices": [
+                        34, 
+                        39
+                    ], 
+                    "text": "2k16"
+                }, 
+                {
+                    "indices": [
+                        40, 
+                        51
+                    ], 
+                    "text": "fuckcancer"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        87, 
+                        110
+                    ], 
+                    "url": "https://t.co/kyFAtMI6Pp", 
+                    "expanded_url": "https://www.instagram.com/p/BCEy73tgAoI/", 
+                    "display_url": "instagram.com/p/BCEy73tgAoI/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701622728520912896", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "de", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 349526106, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/686998469299548160/5btkx-qu_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 656, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "", 
+            "default_profile_image": false, 
+            "id_str": "349526106", 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 723, 
+            "description": "", 
+            "friends_count": 941, 
+            "profile_link_color": "D90D0D", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686998469299548160/5btkx-qu_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673503621/84eda070f340e846912f580a7865c9f2.jpeg", 
+            "profile_background_color": "857C7C", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/349526106/1452628173", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673503621/84eda070f340e846912f580a7865c9f2.jpeg", 
+            "name": "Turtlemancobi", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 8, 
+            "screen_name": "2cobi3", 
+            "url": null, 
+            "created_at": "Sat Aug 06 07:10:40 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Quito", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                32.05833514, 
+                -84.21768923
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "de", 
+        "created_at": "Mon Feb 22 04:21:08 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Americus, GA", 
+            "url": "https://api.twitter.com/1.1/geo/id/4c2935046cf5d0bb.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.293365, 
+                            32.034467
+                        ], 
+                        [
+                            -84.1776693, 
+                            32.034467
+                        ], 
+                        [
+                            -84.1776693, 
+                            32.118969
+                        ], 
+                        [
+                            -84.293365, 
+                            32.118969
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "4c2935046cf5d0bb", 
+            "name": "Americus"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Good win last night #dubs #islabear #isla_noelle #warriors #gsw #stillonvacation @ Epcot - Walt\u2026 https://t.co/Y34Yd8dV6x", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701522105997766656, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -81.5494125, 
+                28.3756625
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        20, 
+                        25
+                    ], 
+                    "text": "dubs"
+                }, 
+                {
+                    "indices": [
+                        26, 
+                        35
+                    ], 
+                    "text": "islabear"
+                }, 
+                {
+                    "indices": [
+                        36, 
+                        48
+                    ], 
+                    "text": "isla_noelle"
+                }, 
+                {
+                    "indices": [
+                        49, 
+                        58
+                    ], 
+                    "text": "warriors"
+                }, 
+                {
+                    "indices": [
+                        59, 
+                        63
+                    ], 
+                    "text": "gsw"
+                }, 
+                {
+                    "indices": [
+                        64, 
+                        80
+                    ], 
+                    "text": "stillonvacation"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        97, 
+                        120
+                    ], 
+                    "url": "https://t.co/Y34Yd8dV6x", 
+                    "expanded_url": "https://www.instagram.com/p/BCEFLPmOVJL/", 
+                    "display_url": "instagram.com/p/BCEFLPmOVJL/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701522105997766656", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 10915002, 
+            "verified": false, 
+            "profile_text_color": "5A0585", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/568537826363314176/W7tRYaSw_normal.jpeg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "url": "http://t.co/VMrYxOXc8W", 
+                            "expanded_url": "http://facebook.com/djcmc", 
+                            "display_url": "facebook.com/djcmc"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 776, 
+            "profile_sidebar_border_color": "AF09F0", 
+            "location": "\u00dcT: 37.757421,-122.257164", 
+            "default_profile_image": false, 
+            "id_str": "10915002", 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 41351, 
+            "description": "DJ/Chef/Father/Fan #OaklandCamarillo #9:59DJs #deftal #OaklandBaseball #WarriorsBasketball", 
+            "friends_count": 417, 
+            "profile_link_color": "94D487", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/568537826363314176/W7tRYaSw_normal.jpeg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280703931/183703_545399423791_77000006_31513220_8160965_n.jpg", 
+            "profile_background_color": "FCFCFC", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10915002/1424969274", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280703931/183703_545399423791_77000006_31513220_8160965_n.jpg", 
+            "name": "Chef CMC", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 388, 
+            "screen_name": "djcmc", 
+            "url": "http://t.co/VMrYxOXc8W", 
+            "created_at": "Thu Dec 06 20:44:53 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 29
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                28.3756625, 
+                -81.5494125
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 21:41:18 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Florida, USA", 
+            "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json", 
+            "country": "United States", 
+            "place_type": "admin", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -87.634643, 
+                            24.396308
+                        ], 
+                        [
+                            -79.974307, 
+                            24.396308
+                        ], 
+                        [
+                            -79.974307, 
+                            31.001056
+                        ], 
+                        [
+                            -87.634643, 
+                            31.001056
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "4ec01c9dbc693497", 
+            "name": "Florida"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Repost dubhighlights smh. #stephencurry #gsw #goldenstatewarriors #splashbrothers #nba\u2026 https://t.co/Sf6k8ZKEYz", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701248677688561664, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -118.26729239, 
+                34.04337837
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        26, 
+                        39
+                    ], 
+                    "text": "stephencurry"
+                }, 
+                {
+                    "indices": [
+                        40, 
+                        44
+                    ], 
+                    "text": "gsw"
+                }, 
+                {
+                    "indices": [
+                        45, 
+                        65
+                    ], 
+                    "text": "goldenstatewarriors"
+                }, 
+                {
+                    "indices": [
+                        66, 
+                        81
+                    ], 
+                    "text": "splashbrothers"
+                }, 
+                {
+                    "indices": [
+                        82, 
+                        86
+                    ], 
+                    "text": "nba"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        88, 
+                        111
+                    ], 
+                    "url": "https://t.co/Sf6k8ZKEYz", 
+                    "expanded_url": "https://www.instagram.com/p/BCCI1yQDsVF/", 
+                    "display_url": "instagram.com/p/BCCI1yQDsVF/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701248677688561664", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 36816846, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/701213409241600000/AOQQwLNr_normal.jpg", 
+            "profile_sidebar_fill_color": "DDFFCC", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/jdqav2IorZ", 
+                            "expanded_url": "http://www.polopirate.com", 
+                            "display_url": "polopirate.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1044, 
+            "profile_sidebar_border_color": "305C19", 
+            "location": "\u00dcT: 40.6169182,-73.9287523", 
+            "default_profile_image": false, 
+            "id_str": "36816846", 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 82144, 
+            "description": "Vintage clothing collector. Manager of man bites dog recording artist @agdacoroner, co-owner of online clothing store #doublejvintage on ebay", 
+            "friends_count": 377, 
+            "profile_link_color": "B30000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/701213409241600000/AOQQwLNr_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/71468060/twitter_pic_2.0.jpg", 
+            "profile_background_color": "504B21", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36816846/1402528763", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/71468060/twitter_pic_2.0.jpg", 
+            "name": "john green", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 44, 
+            "screen_name": "polopirate", 
+            "url": "https://t.co/jdqav2IorZ", 
+            "created_at": "Thu Apr 30 23:50:11 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 101
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                34.04337837, 
+                -118.26729239
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 03:34:47 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Los Angeles, CA", 
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.668404, 
+                            33.704538
+                        ], 
+                        [
+                            -118.155409, 
+                            33.704538
+                        ], 
+                        [
+                            -118.155409, 
+                            34.337041
+                        ], 
+                        [
+                            -118.668404, 
+                            34.337041
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "3b77caf94bfc81fe", 
+            "name": "Los Angeles"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Continuando... E tentando assistir ao jogo dos @warriors!\n#gsw #gswbrasil #goldenstatewarriors\u2026 https://t.co/sJUnGYU5eh", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701225558630227968, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -43.2333, 
+                -22.9
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "indices": [
+                        47, 
+                        56
+                    ], 
+                    "id_str": "26270913", 
+                    "screen_name": "warriors", 
+                    "name": "GoldenStateWarriors", 
+                    "id": 26270913
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        58, 
+                        62
+                    ], 
+                    "text": "gsw"
+                }, 
+                {
+                    "indices": [
+                        63, 
+                        73
+                    ], 
+                    "text": "gswbrasil"
+                }, 
+                {
+                    "indices": [
+                        74, 
+                        94
+                    ], 
+                    "text": "goldenstatewarriors"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        96, 
+                        119
+                    ], 
+                    "url": "https://t.co/sJUnGYU5eh", 
+                    "expanded_url": "https://www.instagram.com/p/BCB-U1SEldv/", 
+                    "display_url": "instagram.com/p/BCB-U1SEldv/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701225558630227968", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "pt", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 28493351, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/566749066/twitterProfilePhoto_normal.jpg", 
+            "profile_sidebar_fill_color": "CBCBCB", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/SfzgLZoJgQ", 
+                            "expanded_url": "http://balderrj.wordpress.com/", 
+                            "display_url": "balderrj.wordpress.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 122, 
+            "profile_sidebar_border_color": "242424", 
+            "location": "Rio de Janeiro - Brasil", 
+            "default_profile_image": false, 
+            "id_str": "28493351", 
+            "is_translation_enabled": false, 
+            "utc_offset": -10800, 
+            "statuses_count": 6453, 
+            "description": "Ateu, Carioca, Vasca\u00edno, Ge\u00f3grafo e com a Data de Validade Expirada!", 
+            "friends_count": 103, 
+            "profile_link_color": "4A913C", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/566749066/twitterProfilePhoto_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/149525315/meut.jpg", 
+            "profile_background_color": "709397", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28493351/1413739904", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/149525315/meut.jpg", 
+            "name": "Anselmo Junior", 
+            "lang": "pt", 
+            "profile_background_tile": true, 
+            "favourites_count": 40, 
+            "screen_name": "anselmojunior", 
+            "url": "https://t.co/SfzgLZoJgQ", 
+            "created_at": "Fri Apr 03 03:35:50 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Brasilia", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 4
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                -22.9, 
+                -43.2333
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "pt", 
+        "created_at": "Sun Feb 21 02:02:55 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Rio de Janeiro, Brazil", 
+            "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json", 
+            "country": "Brasil", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -43.795449, 
+                            -23.08302
+                        ], 
+                        [
+                            -43.0877068, 
+                            -23.08302
+                        ], 
+                        [
+                            -43.0877068, 
+                            -22.7398234
+                        ], 
+                        [
+                            -43.795449, 
+                            -22.7398234
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "BR", 
+            "attributes": {}, 
+            "id": "97bcdfca1a2dca59", 
+            "name": "Rio de Janeiro"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "#tb #gsw #igothisautograph \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f @ Golden State Warriors\u2026 https://t.co/YTGMzPCMNL", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 700898595323691009, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -122.40666377, 
+                37.78464834
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        0, 
+                        3
+                    ], 
+                    "text": "tb"
+                }, 
+                {
+                    "indices": [
+                        4, 
+                        8
+                    ], 
+                    "text": "gsw"
+                }, 
+                {
+                    "indices": [
+                        9, 
+                        26
+                    ], 
+                    "text": "igothisautograph"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        67, 
+                        90
+                    ], 
+                    "url": "https://t.co/YTGMzPCMNL", 
+                    "expanded_url": "https://www.instagram.com/p/BB_ppKoTEmYsBStTruXTFTszABqtdrGQHAIRFE0/", 
+                    "display_url": "instagram.com/p/BB_ppKoTEmYs\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "700898595323691009", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 27269432, 
+            "verified": false, 
+            "profile_text_color": "0FFF1F", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/696378910334799872/M3zB_qb5_normal.jpg", 
+            "profile_sidebar_fill_color": "461EE8", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 170, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "location": "Thailand", 
+            "default_profile_image": false, 
+            "id_str": "27269432", 
+            "is_translation_enabled": false, 
+            "utc_offset": 25200, 
+            "statuses_count": 51148, 
+            "description": "It's my life , not yours. Be nice or go away.", 
+            "friends_count": 310, 
+            "profile_link_color": "FA743E", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/696378910334799872/M3zB_qb5_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669248147/2f05ca8639eb4ada0a31805fb7bad3be.jpeg", 
+            "profile_background_color": "1A1B1F", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27269432/1356880050", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669248147/2f05ca8639eb4ada0a31805fb7bad3be.jpeg", 
+            "name": "Natchon", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 731, 
+            "screen_name": "knazKNAZ", 
+            "url": null, 
+            "created_at": "Sat Mar 28 17:29:35 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Bangkok", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 11
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                37.78464834, 
+                -122.40666377
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sat Feb 20 04:23:41 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "San Francisco, CA", 
+            "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.514926, 
+                            37.708075
+                        ], 
+                        [
+                            -122.357031, 
+                            37.708075
+                        ], 
+                        [
+                            -122.357031, 
+                            37.833238
+                        ], 
+                        [
+                            -122.514926, 
+                            37.833238
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "5a110d312052166f", 
+            "name": "San Francisco"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Representing in Portland but holding #trailblazers clappers...Confused? #gsw #warriorsground\u2026 https://t.co/5h4xeHloA1", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 700892060493205504, 
+        "favorite_count": 1, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -122.66777, 
+                45.5317
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        37, 
+                        50
+                    ], 
+                    "text": "trailblazers"
+                }, 
+                {
+                    "indices": [
+                        72, 
+                        76
+                    ], 
+                    "text": "gsw"
+                }, 
+                {
+                    "indices": [
+                        77, 
+                        92
+                    ], 
+                    "text": "warriorsground"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        94, 
+                        117
+                    ], 
+                    "url": "https://t.co/5h4xeHloA1", 
+                    "expanded_url": "https://www.instagram.com/p/BB_mq9HGaU8/", 
+                    "display_url": "instagram.com/p/BB_mq9HGaU8/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "700892060493205504", 
+        "retweet_count": 1, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 1337940721, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/620716406745608193/5Pyx7Wrl_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/pLhF5HRSYW", 
+                            "expanded_url": "http://www.sportsinthebay.net", 
+                            "display_url": "sportsinthebay.net"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 169, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "location": "Northern California", 
+            "default_profile_image": false, 
+            "id_str": "1337940721", 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 1849, 
+            "description": "Covering Bay Area Sports.\nBlogger/Vlogger and Features Writer.\nFollow on Instagram: sportsinthebay\nLike on Facebook: Sports in the Bay\n#gsw Season Credentialed", 
+            "friends_count": 254, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/620716406745608193/5Pyx7Wrl_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_color": "C0DEED", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337940721/1436824801", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Sports In The Bay", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 164, 
+            "screen_name": "SportsInTheBay_", 
+            "url": "https://t.co/pLhF5HRSYW", 
+            "created_at": "Tue Apr 09 00:17:55 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "following": null, 
+            "listed_count": 11
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                45.5317, 
+                -122.66777
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sat Feb 20 03:57:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Portland, OR", 
+            "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.7900653, 
+                            45.421863
+                        ], 
+                        [
+                            -122.471751, 
+                            45.421863
+                        ], 
+                        [
+                            -122.471751, 
+                            45.6509405
+                        ], 
+                        [
+                            -122.7900653, 
+                            45.6509405
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "ac88a4f17a51c7fc", 
+            "name": "Portland"
+        }
+    }
+]

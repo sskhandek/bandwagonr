@@ -1,0 +1,1089 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "HB with a slam! #LetsGoWarriorsLive", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701241737973346304, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                124.2493443, 
+                7.20207
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        16, 
+                        35
+                    ], 
+                    "text": "LetsGoWarriorsLive"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701241737973346304", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2922257762, 
+            "verified": false, 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 181, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "Dubnation", 
+            "default_profile_image": false, 
+            "id_str": "2922257762", 
+            "is_translation_enabled": false, 
+            "utc_offset": 21600, 
+            "statuses_count": 2434, 
+            "description": "Once the tweet goes out, it cant be taken back kkkk", 
+            "friends_count": 89, 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "profile_background_color": "000000", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922257762/1454237165", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "name": "Shaneen Pausi", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1132, 
+            "screen_name": "shaneenpausi", 
+            "url": null, 
+            "created_at": "Mon Dec 08 03:13:25 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Urumqi", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                7.20207, 
+                124.2493443
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 03:07:13 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Cotabato City, Soccsksargen", 
+            "url": "https://api.twitter.com/1.1/geo/id/007508dd60f2b2c6.json", 
+            "country": "Republika ng Pilipinas", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            124.1573872, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.2722539
+                        ], 
+                        [
+                            124.1573872, 
+                            7.2722539
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "PH", 
+            "attributes": {}, 
+            "id": "007508dd60f2b2c6", 
+            "name": "Cotabato City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Iggy #LetsGoWarriorsLive", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701236245842624512, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                124.2493453, 
+                7.2020705
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        5, 
+                        24
+                    ], 
+                    "text": "LetsGoWarriorsLive"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701236245842624512", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2922257762, 
+            "verified": false, 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 181, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "Dubnation", 
+            "default_profile_image": false, 
+            "id_str": "2922257762", 
+            "is_translation_enabled": false, 
+            "utc_offset": 21600, 
+            "statuses_count": 2434, 
+            "description": "Once the tweet goes out, it cant be taken back kkkk", 
+            "friends_count": 89, 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "profile_background_color": "000000", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922257762/1454237165", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "name": "Shaneen Pausi", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1132, 
+            "screen_name": "shaneenpausi", 
+            "url": null, 
+            "created_at": "Mon Dec 08 03:13:25 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Urumqi", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                7.2020705, 
+                124.2493453
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 02:45:24 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Cotabato City, Soccsksargen", 
+            "url": "https://api.twitter.com/1.1/geo/id/007508dd60f2b2c6.json", 
+            "country": "Republika ng Pilipinas", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            124.1573872, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.2722539
+                        ], 
+                        [
+                            124.1573872, 
+                            7.2722539
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "PH", 
+            "attributes": {}, 
+            "id": "007508dd60f2b2c6", 
+            "name": "Cotabato City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "The ball movement tho. #LetsGoWarriorsLive", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701234515318968320, 
+        "favorite_count": 1, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                124.2493443, 
+                7.20207
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        23, 
+                        42
+                    ], 
+                    "text": "LetsGoWarriorsLive"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701234515318968320", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2922257762, 
+            "verified": false, 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 181, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "Dubnation", 
+            "default_profile_image": false, 
+            "id_str": "2922257762", 
+            "is_translation_enabled": false, 
+            "utc_offset": 21600, 
+            "statuses_count": 2434, 
+            "description": "Once the tweet goes out, it cant be taken back kkkk", 
+            "friends_count": 89, 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "profile_background_color": "000000", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922257762/1454237165", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "name": "Shaneen Pausi", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1132, 
+            "screen_name": "shaneenpausi", 
+            "url": null, 
+            "created_at": "Mon Dec 08 03:13:25 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Urumqi", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                7.20207, 
+                124.2493443
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 02:38:31 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Cotabato City, Soccsksargen", 
+            "url": "https://api.twitter.com/1.1/geo/id/007508dd60f2b2c6.json", 
+            "country": "Republika ng Pilipinas", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            124.1573872, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.2722539
+                        ], 
+                        [
+                            124.1573872, 
+                            7.2722539
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "PH", 
+            "attributes": {}, 
+            "id": "007508dd60f2b2c6", 
+            "name": "Cotabato City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Draymond Green #LetsGoWarriorsLive", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701233797782614016, 
+        "favorite_count": 1, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                124.249345, 
+                7.2020693
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        15, 
+                        34
+                    ], 
+                    "text": "LetsGoWarriorsLive"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701233797782614016", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2922257762, 
+            "verified": false, 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 181, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "Dubnation", 
+            "default_profile_image": false, 
+            "id_str": "2922257762", 
+            "is_translation_enabled": false, 
+            "utc_offset": 21600, 
+            "statuses_count": 2434, 
+            "description": "Once the tweet goes out, it cant be taken back kkkk", 
+            "friends_count": 89, 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "profile_background_color": "000000", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922257762/1454237165", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "name": "Shaneen Pausi", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1132, 
+            "screen_name": "shaneenpausi", 
+            "url": null, 
+            "created_at": "Mon Dec 08 03:13:25 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Urumqi", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                7.2020693, 
+                124.249345
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 02:35:40 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Cotabato City, Soccsksargen", 
+            "url": "https://api.twitter.com/1.1/geo/id/007508dd60f2b2c6.json", 
+            "country": "Republika ng Pilipinas", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            124.1573872, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.2722539
+                        ], 
+                        [
+                            124.1573872, 
+                            7.2722539
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "PH", 
+            "attributes": {}, 
+            "id": "007508dd60f2b2c6", 
+            "name": "Cotabato City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "HB!!! #LetsGoWarriorsLive", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701229108139728898, 
+        "favorite_count": 23, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                124.2493443, 
+                7.20207
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        6, 
+                        25
+                    ], 
+                    "text": "LetsGoWarriorsLive"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701229108139728898", 
+        "retweet_count": 5, 
+        "metadata": {
+            "iso_language_code": "und", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2922257762, 
+            "verified": false, 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 181, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "Dubnation", 
+            "default_profile_image": false, 
+            "id_str": "2922257762", 
+            "is_translation_enabled": false, 
+            "utc_offset": 21600, 
+            "statuses_count": 2434, 
+            "description": "Once the tweet goes out, it cant be taken back kkkk", 
+            "friends_count": 89, 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "profile_background_color": "000000", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922257762/1454237165", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "name": "Shaneen Pausi", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1132, 
+            "screen_name": "shaneenpausi", 
+            "url": null, 
+            "created_at": "Mon Dec 08 03:13:25 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Urumqi", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                7.20207, 
+                124.2493443
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "und", 
+        "created_at": "Sun Feb 21 02:17:02 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Cotabato City, Soccsksargen", 
+            "url": "https://api.twitter.com/1.1/geo/id/007508dd60f2b2c6.json", 
+            "country": "Republika ng Pilipinas", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            124.1573872, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.2722539
+                        ], 
+                        [
+                            124.1573872, 
+                            7.2722539
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "PH", 
+            "attributes": {}, 
+            "id": "007508dd60f2b2c6", 
+            "name": "Cotabato City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Klay for three #LetsGoWarriorsLive", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 701225733276893184, 
+        "favorite_count": 1, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                124.249345, 
+                7.2020693
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        15, 
+                        34
+                    ], 
+                    "text": "LetsGoWarriorsLive"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "701225733276893184", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "id": 2922257762, 
+            "verified": false, 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 181, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "Dubnation", 
+            "default_profile_image": false, 
+            "id_str": "2922257762", 
+            "is_translation_enabled": false, 
+            "utc_offset": 21600, 
+            "statuses_count": 2434, 
+            "description": "Once the tweet goes out, it cant be taken back kkkk", 
+            "friends_count": 89, 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702667367726215168/JoSVtXRt_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "profile_background_color": "000000", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922257762/1454237165", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659627108671471616/XE3KBI13.jpg", 
+            "name": "Shaneen Pausi", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1132, 
+            "screen_name": "shaneenpausi", 
+            "url": null, 
+            "created_at": "Mon Dec 08 03:13:25 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Urumqi", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 0
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                7.2020693, 
+                124.249345
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sun Feb 21 02:03:37 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Cotabato City, Soccsksargen", 
+            "url": "https://api.twitter.com/1.1/geo/id/007508dd60f2b2c6.json", 
+            "country": "Republika ng Pilipinas", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            124.1573872, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.1307029
+                        ], 
+                        [
+                            124.3394214, 
+                            7.2722539
+                        ], 
+                        [
+                            124.1573872, 
+                            7.2722539
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "PH", 
+            "attributes": {}, 
+            "id": "007508dd60f2b2c6", 
+            "name": "Cotabato City"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Still very proud of my warriors win or loose #LetsGoWarriorslive #DubNation", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 700914629073981442, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -122.057159, 
+                37.6283807
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        45, 
+                        64
+                    ], 
+                    "text": "LetsGoWarriorslive"
+                }, 
+                {
+                    "indices": [
+                        65, 
+                        75
+                    ], 
+                    "text": "DubNation"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "700914629073981442", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 2369494254, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 62, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "location": "California ", 
+            "default_profile_image": true, 
+            "id_str": "2369494254", 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1827, 
+            "description": "", 
+            "friends_count": 713, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_color": "C0DEED", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "LadyGlad S", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1583, 
+            "screen_name": "ladyulofine", 
+            "url": null, 
+            "created_at": "Sun Mar 02 23:05:53 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "following": null, 
+            "listed_count": 4
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                37.6283807, 
+                -122.057159
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sat Feb 20 05:27:24 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Hayward, CA", 
+            "url": "https://api.twitter.com/1.1/geo/id/5ecbd073f39c00fa.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.160814, 
+                            37.592632
+                        ], 
+                        [
+                            -122.010737, 
+                            37.592632
+                        ], 
+                        [
+                            -122.010737, 
+                            37.689909
+                        ], 
+                        [
+                            -122.160814, 
+                            37.689909
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "5ecbd073f39c00fa", 
+            "name": "Hayward"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "GSW @warriors  r still the best in the NBA #LetsGoWarriorslive #DubNation", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 700910797640171520, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0574252, 
+                37.6280933
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "indices": [
+                        4, 
+                        13
+                    ], 
+                    "id_str": "26270913", 
+                    "screen_name": "warriors", 
+                    "name": "GoldenStateWarriors", 
+                    "id": 26270913
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        43, 
+                        62
+                    ], 
+                    "text": "LetsGoWarriorslive"
+                }, 
+                {
+                    "indices": [
+                        63, 
+                        73
+                    ], 
+                    "text": "DubNation"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "700910797640171520", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 2369494254, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 62, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "location": "California ", 
+            "default_profile_image": true, 
+            "id_str": "2369494254", 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1827, 
+            "description": "", 
+            "friends_count": 713, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_color": "C0DEED", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "LadyGlad S", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1583, 
+            "screen_name": "ladyulofine", 
+            "url": null, 
+            "created_at": "Sun Mar 02 23:05:53 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "following": null, 
+            "listed_count": 4
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                37.6280933, 
+                -122.0574252
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Sat Feb 20 05:12:11 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Hayward, CA", 
+            "url": "https://api.twitter.com/1.1/geo/id/5ecbd073f39c00fa.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.160814, 
+                            37.592632
+                        ], 
+                        [
+                            -122.010737, 
+                            37.592632
+                        ], 
+                        [
+                            -122.010737, 
+                            37.689909
+                        ], 
+                        [
+                            -122.160814, 
+                            37.689909
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "5ecbd073f39c00fa", 
+            "name": "Hayward"
+        }
+    }
+]

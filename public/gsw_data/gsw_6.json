@@ -1,0 +1,344 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Hotline BLING #LetsGoWarriors #SantaCruz #GoldenStateWarriors #Hardware #Champ #DKnDK @ Newport\u2026 https://t.co/WQtoDC4sOx", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 702342490528075776, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -117.898, 
+                33.6167
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        14, 
+                        29
+                    ], 
+                    "text": "LetsGoWarriors"
+                }, 
+                {
+                    "indices": [
+                        30, 
+                        40
+                    ], 
+                    "text": "SantaCruz"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        61
+                    ], 
+                    "text": "GoldenStateWarriors"
+                }, 
+                {
+                    "indices": [
+                        62, 
+                        71
+                    ], 
+                    "text": "Hardware"
+                }, 
+                {
+                    "indices": [
+                        72, 
+                        78
+                    ], 
+                    "text": "Champ"
+                }, 
+                {
+                    "indices": [
+                        79, 
+                        85
+                    ], 
+                    "text": "DKnDK"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        97, 
+                        120
+                    ], 
+                    "url": "https://t.co/WQtoDC4sOx", 
+                    "expanded_url": "https://www.instagram.com/p/BCJ6P_cLeLW/", 
+                    "display_url": "instagram.com/p/BCJ6P_cLeLW/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "702342490528075776", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "id": 273813289, 
+            "verified": false, 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/696518970409508866/L7LquAKp_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 400, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "location": "San Francisco", 
+            "default_profile_image": false, 
+            "id_str": "273813289", 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 1798, 
+            "description": "I work all year for that two week #vacation to #travel the #world. Tweets are my own", 
+            "friends_count": 1255, 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/696518970409508866/L7LquAKp_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_color": "C0DEED", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Dave Kao", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 298, 
+            "screen_name": "davekao1", 
+            "url": null, 
+            "created_at": "Tue Mar 29 06:29:40 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "following": null, 
+            "listed_count": 10
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                33.6167, 
+                -117.898
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Feb 24 04:01:13 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Newport Beach, CA", 
+            "url": "https://api.twitter.com/1.1/geo/id/0ce4c27ce26030aa.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -117.9582193, 
+                            33.563618
+                        ], 
+                        [
+                            -117.789845, 
+                            33.563618
+                        ], 
+                        [
+                            -117.789845, 
+                            33.671658
+                        ], 
+                        [
+                            -117.9582193, 
+                            33.671658
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "0ce4c27ce26030aa", 
+            "name": "Newport Beach"
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Warriors vs. Blazers game!!! \ud83c\udfc0\ud83d\udc99\ud83d\udc9b\ud83d\udc99\ud83d\udc9b#letsgowarriors #dubnation @ Moda Center at the Rose Quarter https://t.co/tJEf5lJJwF", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_user_id": null, 
+        "id": 700858564517109760, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
+        "retweeted": false, 
+        "coordinates": {
+            "type": "Point", 
+            "coordinates": [
+                -122.66777, 
+                45.5317
+            ]
+        }, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        34, 
+                        49
+                    ], 
+                    "text": "letsgowarriors"
+                }, 
+                {
+                    "indices": [
+                        50, 
+                        60
+                    ], 
+                    "text": "dubnation"
+                }
+            ], 
+            "urls": [
+                {
+                    "indices": [
+                        95, 
+                        118
+                    ], 
+                    "url": "https://t.co/tJEf5lJJwF", 
+                    "expanded_url": "https://www.instagram.com/p/BB_XbyON159/", 
+                    "display_url": "instagram.com/p/BB_XbyON159/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "700858564517109760", 
+        "retweet_count": 0, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "id": 392026301, 
+            "verified": false, 
+            "profile_text_color": "313E4F", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2506404729/image_normal.jpg", 
+            "profile_sidebar_fill_color": "B58A3B", 
+            "is_translator": false, 
+            "geo_enabled": true, 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "url": "http://t.co/2CDPhZHkT0", 
+                            "expanded_url": "http://tasty-tunes.tumblr.com/", 
+                            "display_url": "tasty-tunes.tumblr.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 60, 
+            "profile_sidebar_border_color": "000000", 
+            "location": "", 
+            "default_profile_image": false, 
+            "id_str": "392026301", 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 2185, 
+            "description": "The little joys that fill my days with happiness \nBay Area, CA", 
+            "friends_count": 198, 
+            "profile_link_color": "1C4A63", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2506404729/image_normal.jpg", 
+            "notifications": null, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000118604311/59cc5066ab13b766da81c858f76cbc7c.gif", 
+            "profile_background_color": "5C0B00", 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/392026301/1360782773", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000118604311/59cc5066ab13b766da81c858f76cbc7c.gif", 
+            "name": "Helenda", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 164, 
+            "screen_name": "HelendaLi", 
+            "url": "http://t.co/2CDPhZHkT0", 
+            "created_at": "Sun Oct 16 13:09:03 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "following": null, 
+            "listed_count": 7
+        }, 
+        "geo": {
+            "type": "Point", 
+            "coordinates": [
+                45.5317, 
+                -122.66777
+            ]
+        }, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sat Feb 20 01:44:37 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": {
+            "full_name": "Portland, OR", 
+            "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json", 
+            "country": "United States", 
+            "place_type": "city", 
+            "bounding_box": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.7900653, 
+                            45.421863
+                        ], 
+                        [
+                            -122.471751, 
+                            45.421863
+                        ], 
+                        [
+                            -122.471751, 
+                            45.6509405
+                        ], 
+                        [
+                            -122.7900653, 
+                            45.6509405
+                        ]
+                    ]
+                ]
+            }, 
+            "contained_within": [], 
+            "country_code": "US", 
+            "attributes": {}, 
+            "id": "ac88a4f17a51c7fc", 
+            "name": "Portland"
+        }
+    }
+]
